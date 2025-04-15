@@ -1,0 +1,23 @@
+{
+  "name": "Oura",
+  "symbol": "ORA",
+  "description": "Oura is a premium, sleek, and scalable cryptocurrency built on the Solana blockchain for fast, secure, and global utility.",
+  "image": "https://raw.githubusercontent.com/yourusername/oura-token/main/oura-logo.png",
+  "decimals": 9,
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/yourusername/oura-token/main/oura-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4QonszmeRpq7xBrwEYPG4ei6AP4nib4kx3NcfzJbQHKY",
+        "share": 100
+      }
+    ]
+  }
+}
